@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "105450-0101")(type "KiCad")(uri "${KIPRJMOD}/Project_library/105450-0101")(options "")(descr ""))
+  (lib (name "ESP32-S2-Breakout")(type "KiCad")(uri "${KIPRJMOD}/ESP32-S2-Breakout.pretty")(options "")(descr ""))
+)
